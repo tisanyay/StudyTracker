@@ -1,0 +1,9 @@
+data filter=lfs diff=lfs merge=lfs -text
+models.tar.gz filter=lfs diff=lfs merge=lfs -text
+protoc filter=lfs diff=lfs merge=lfs -text
+2.[[:space:]]Training[[:space:]]and[[:space:]]Detection.ipynb filter=lfs diff=lfs merge=lfs -text
+classifier.ipynb filter=lfs diff=lfs merge=lfs -text
+models filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+scripts filter=lfs diff=lfs merge=lfs -text
+workspace filter=lfs diff=lfs merge=lfs -text
